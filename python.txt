@@ -1,0 +1,5 @@
+~$ Ctrl+D # sair do interpretador Python
+
+IPYTHON
+
+~$ save <filename.py> start:end # salva as linhas no arquivo, o end é excluído
